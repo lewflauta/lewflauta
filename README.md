@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lewflauta
-- 👀 I’m interested in AI, Coding, Bowling, Tech, Fitness
-- 🌱 I’m currently learning Vibecoding
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Kubernetes Homelabbing, AI, Coding, Bowling, Tech, Fitness
+- 🌱 I’m currently learning Devops, AI, and Vibecoding
 - 📫 How to reach me lewtech@gmail.com
 - ⚡ Fun fact: this is not written with AI!
 
